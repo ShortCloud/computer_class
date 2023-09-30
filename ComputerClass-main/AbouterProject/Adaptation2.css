@@ -1,0 +1,393 @@
+@media(max-width: 1440px){
+	.logo{
+	width: 40px;
+	height: 40px;
+	margin-top: 40px;
+	margin-left: 80px;
+	}
+
+	.headerItems{
+	margin-left: 250px;
+	margin-top: 60px;
+	}
+	.SignUp{
+	position: absolute;
+	width: 183px;
+	height: 44px;
+	left: 1180px;
+	top: 38px;
+	}
+
+	.Orderbutton{
+	position: absolute;
+	width: 169px;
+	height: 44px;
+	margin: 43px 0px 0px 100px;
+	}
+
+	.endColumnText{
+	position: absolute;
+	width: 122px;
+	height: 24px;
+	margin: 40px 0px 0px 0px;
+	transform: translateX(400px);
+	}
+
+	.number1{
+	position: absolute;
+	width: 28px;
+	height: 24px;
+	transform: translateX(600px);
+	margin: 40px 0 0 0;
+	}
+
+	.endColumnText1{
+	position: absolute;
+	width: 193px;
+	height: 24px;
+	transform: translateX(400px);
+	margin: 80px 0 0 0;
+	}
+
+	.number2{
+	position: absolute;
+	width: 28px;
+	height: 24px;
+	transform: translateX(600px);
+	margin: 80px 0 0 0;
+	}
+
+	.endColumnText2{
+	position: absolute;
+	width: 178px;
+	height: 24px;
+	transform: translateX(700px);
+	margin: 40px 0 0 0;
+	}
+
+	.number3{
+	position: absolute;
+	width: 71px;
+	height: 24px;
+	transform: translateX(1000px);
+	margin: 40px 0 0 0;
+	}
+
+	.hr{
+	position: absolute;
+	width: 690px;
+	height: 6px;
+	transform: translateX(700px);
+	margin: 70px 0 0 0;
+	}
+
+	.number4{
+	position: absolute;
+	width: 9px;
+	height: 24px;
+	transform: translateX(700px);
+	margin: 80px 0 0 0;
+	}
+
+	.number5{
+	position: absolute;
+	width: 82px;
+	height: 24px;
+	transform: translateX(1300px);
+	margin: 80px 0 0 0;
+	}
+
+	.obvodka{
+		position: absolute;
+		transform: translateX(-200px);
+	}
+
+	.computerImg{
+	position: absolute;
+	width: 446px;
+	height: 446px;
+	transform: translateX(-150px);
+	margin: 130px 0 0 0;
+	}
+
+	.faqText{
+	position: absolute;
+	width: 502px;
+	height: 67px;
+	transform: translateX(400px);
+	margin: 70px 0 0 0;
+	}
+
+	.Lorem{
+	position: absolute;
+	width: 636px;
+	height: 156px;
+	transform: translateX(400px);
+	margin: 200px 0 0 0;
+	}
+
+	.Ellipse{
+		position: absolute;
+		transform: translateX(-200px);
+	}
+
+	.StartText{
+	position: absolute;
+	width: 351px;
+	height: 67px;
+	transform: translateX(-100px);
+	margin: 20px 0 0 0;
+	}
+
+	.StartComment{
+	position: absolute;
+	width: 411px;
+	height: 52px;
+	margin: 100px 0 0 -100px;
+	}
+
+	.columnitem1{
+		margin: 0 0 0 -150px;
+	}
+
+	.rectangle1{margin: 20px 0 0 -155px;}
+
+	.ColumnItems2{
+		width: 1200px;
+		height: 100px;
+		margin: 0 0 0 -150px;
+	}
+
+	.columnitem2{margin-left: 200px;}
+
+	.getJobText{
+	position: absolute;
+	width: 810px;
+	height: 67px;
+	left: 100px;
+	}
+
+	.Vector1{
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	}
+
+	.Vector2{
+	position: absolute;
+	left: 5px;
+	top: 205px;
+	}
+
+	.Vector3{
+	position: absolute;
+	left: 57px;
+	top: 220px;
+	}
+
+	.Vector4{
+	position: absolute;
+	left: 33px;
+	top: 236px;
+	}
+
+	.Vector5{
+	position: absolute;
+	left: 75px;
+	top: 200px;
+	}
+
+	.Vector6{
+	position: absolute;
+	left: 81px;
+	top: 205px;
+	}
+
+	.Vector7{
+	position: absolute;
+	left: 81px;
+	top: 210px;
+	}
+
+	.Vector8{
+	position: absolute;
+	left: 81px;
+	top: 215px;
+	}
+
+	.Vector9{
+	position: absolute;
+	left: 81px;
+	top: 235px;
+	}
+
+	.Vector10{
+	position: absolute;
+	left: 450px;
+	top: 180px;
+	}
+
+	.Vector11{
+	position: absolute;
+	left: 465px;
+	top: 185px;
+	}
+
+	.Vector12{
+	position: absolute;
+	left: 475px;
+	top: 185px;
+	}
+
+	.Vector13{
+	position: absolute;
+	left: 456px;
+	top: 210px;
+	}
+
+	.Vector14{
+	position: absolute;
+	left: 73px;
+	top: 264px;
+	}
+
+	.Vector15{
+	position: absolute;
+	left: 0px;
+	top: 264px;
+	}
+
+	.Vector16{
+	position: absolute;
+	left: 6px;
+	top: 270px;
+	}
+
+	.Vector17{
+	position: absolute;
+	left: 6px;
+	top: 277px;
+	}	
+
+	.Vector18{
+	position: absolute;
+	left: 850px;
+	top: 185px;
+	}
+
+	.Vector19{
+	position: absolute;
+	left: 856px;
+	top: 192px;
+	}
+
+	.Vector20{
+	position: absolute;
+	left: 856px;
+	top: 200px;
+	}
+
+	.Vector21{
+	position: absolute;
+	left: 940px;
+	top: 265px;
+	}
+
+	.Vector22{
+	position: absolute;
+	left: 940px;
+	top: 272px;	
+	}
+
+	.getJobText2{
+	position: absolute;
+	width: 316px;
+	height: 68px;
+	left: -180px;
+	}
+
+	.getJobText3{
+	position: absolute;
+	width: 350px;
+	height: 68px;
+	left: -200px;
+	}
+
+	.getJobText4{
+	position: absolute;
+	width: 250px;
+	height: 68px;
+	left: -180px;
+	}
+
+	.Lorem1{
+	position: absolute;
+	width: 358px;
+	height: 104px;
+	margin: 500px 0 0 -140px;
+ 	}
+
+ 	.Lorem2{
+	position: absolute;
+	width: 358px;
+	height: 104px;
+	margin: 500px 0 0 285px;
+	}
+
+	.Lorem3{
+	position: absolute;
+	width: 358px;
+	height: 104px;
+	margin: 500px 0 0 730px;
+	}
+
+	.Ellipse2{width: 78px;height: 78px; margin: 0 0 0 -240px;}
+
+	.gridfoundation{
+	position: absolute;
+	width: 1320px;
+	height: 0px;
+	margin: 300px 0 0 -240px;
+	}
+
+	.gridVerticalLine{
+	position: absolute;
+	width: 300px;
+	height: 0px;
+	margin: 300px 0 0 -100px;
+	}
+
+	.MsiLogo{
+	position: absolute;
+	margin: 190px 0 0 -200px;
+	}
+
+	.gridVerticalLine2{
+	position: absolute;
+	width: 300px;
+	height: 0px;
+	margin: 300px 0 0 200px;
+	}
+
+	.MsiLogo2{
+	position: absolute;
+	margin: 190px 0 0 100px;
+	}
+
+	.gridVerticalLine3{
+	position: absolute;
+	width: 300px;
+	height: 0px;
+	margin: 300px 0 0 500px;
+	}
+
+	.MsiLogo3{
+	position: absolute;
+	margin: 190px 0 0 400px;
+	}
+
+	MsiLogo4{
+	position: absolute;
+	margin: 190px 0 0 400px;
+	}
+}
